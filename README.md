@@ -19,7 +19,7 @@ conversions at the top of the list.
 - Landscape layout is available.
 
 ## Vertical Layout
-![Vertical Layout](https://github.com/allanzguan/DistanceConverter/blob/master/screenshot/device-2020-11-27-204616.png | width=200)
+<img src="https://github.com/allanzguan/DistanceConverter/blob/master/screenshot/device-2020-11-27-204616.png" width="100>
 
 ## Landscape Layout
 ![Landscape Layout](https://github.com/allanzguan/DistanceConverter/blob/master/screenshot/device-2020-11-27-204704.png)
